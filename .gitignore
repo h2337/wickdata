@@ -1,0 +1,5 @@
+build/
+wickdata.db
+wickdata.egg-info/
+__pycache__
+.coverage
