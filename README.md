@@ -1,3 +1,5 @@
+<img align="right" src="https://raw.githubusercontent.com/h2337/wickdata/refs/heads/master/logo.svg">
+
 # wickdata
 
 High-performance Python library for fetching, storing, and streaming historical cryptocurrency market data.
